@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ezequiel Baigorria eze.baig@gmail.com @ez1124
 
 # THANKS
 
