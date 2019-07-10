@@ -15,3 +15,7 @@ Sample website with plenty of files for demos
 This is a simple we prohect deployment.
 
 ## How to contribute
+
+## Copyright
+
+2019 Git.Training.
